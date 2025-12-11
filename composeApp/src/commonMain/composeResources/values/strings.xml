@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="recipe_search_bar_placeholder">What do you want to cook?</string>
+    <string name="product_search_bar_placeholder">What do you want to buy?</string>
+    <string name="character_search_bar_placeholder">Search...</string>
+    <string name="tab_products">Products</string>
+    <string name="tab_recipes">Recipes</string>
+    <string name="tab_characters">Characters</string>
+    <string name="tab_favorite">favorites</string>
+    <string name="empty_recipes_message">No recipes found</string>
+    <string name="error_404_not_found">404 not found</string>
+    <string name="disney_land">Disney Land</string>
+    <string name="no_search_results">No characters found for the search query</string>
+    <string name="no_favorite_characters">No characters are added as favorite characters.</string>
+
+    <string name="error_disk_full">Oops. seems like your disk is full.</string>
+    <string name="error_unknown">Something went wrong.</string>
+    <string name="error_request_timeout">The request has timed out.</string>
+    <string name="error_too_many_requests">Oops, you might have exhausted your limit quota.</string>
+    <string name="error_serialization">Some error occurred while processing the response.</string>
+    <string name="error_no_internet">Please check your internet connection and try again.</string>
+    <string name="films">Films</string>
+    <string name="short_films">Short Films</string>]
+    <string name="tv_shows">TV Shows</string>
+    <string name="video_games">Video Games</string>
+</resources>
